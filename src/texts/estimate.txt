@@ -1,0 +1,2 @@
+:woman_technologist: You have {1-100:developers} developers working on a project, looking to ship {1-10:epics} Jira epics worth of features. :earth_globe_europe-africa: Your team works across {1-5:timezones} timezones and you provde them with {1-3:cases} cases of La Croix per week. :stopwatch: You can estimate this project will take {= (6 + (random(201)/100)) :weeks} weeks.
+
